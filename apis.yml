@@ -37,7 +37,7 @@ x-lifecycle:
   successor_product: Google Cloud Migrate for Virtual Machines
   successor_url: https://docs.cloud.google.com/migrate/virtual-machines/docs/5.0
   founded: '2014'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
