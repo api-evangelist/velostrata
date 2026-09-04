@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://velostrata.com', status: 301, note: 'declared website redirects to https://docs.cloud.google.com/migrate/virtual-machines/docs/5.0 — a different registrable domain (velostrata.com -> google.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/velostrata.png
 name: Velostrata
 description: 'Velostrata was an enterprise cloud-migration technology company founded in 2014 by Issy Ben-Shaul
